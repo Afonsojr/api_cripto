@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+streamlit
+jupyter
+rich
+rich[jupyter]
+matplotlib
+seaborn
+plotly
